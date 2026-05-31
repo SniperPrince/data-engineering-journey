@@ -1,0 +1,70 @@
+#APC_3.2.100.1 Output below:
+
+EPS sidelining is off
+File-per-page is off
+Image sidelining is off
+Output directory is .
+JobOption file is /home/ceousr/monza/bigstone/NormalizerAgent/bigstone/4159612_Oce.joboptions
+CID support library initialization completed.
+%%[ Warning: Empty job. No PDF file produced. ] %%
+Adobe PDF Converter 3.2.100.1
+democonverter: started /home/ceousr/monza/bigstone/NormalizerAgent/bigstone/4159612_FD043828F01.dbf_VPconvert289.ps
+UsePrologue is false.
+Total Number of Pages in Job=5058
+/home/ceousr/monza/bigstone/NormalizerAgent/bigstone/4159612_FD043828F01.dbf_VPconvert289.ps: 5058 pages 1665.480 seconds 182.22 ppm
+First page took 0.123 second, rest took 1665.357 seconds. ppm for pages after first = 182.195
+
+Done
+
+#APC_3.2.400.1 Output below:
+
+EPS sidelining is off
+File-per-page is off
+Image sidelining is off
+Output directory is .
+JobOption file is /home/ceousr/monza/bigstone/NormalizerAgent/bigstone/4159612_Oce.joboptions
+CID support library initialization completed.
+%%[ Warning: Empty job. No PDF file produced. ] %%
+Adobe PDF Converter 3.2.400.1
+democonverter: started /home/ceousr/monza/bigstone/NormalizerAgent/bigstone/4159612_FD043828F01.dbf_VPconvert289.ps
+UsePrologue is false.
+Total Number of Pages in Job=5058
+/home/ceousr/monza/bigstone/NormalizerAgent/bigstone/4159612_FD043828F01.dbf_VPconvert289.ps: 5058 pages 1669.460 seconds 181.78 ppm
+First page took 0.120 second, rest took 1669.340 seconds. ppm for pages after first = 181.760
+
+Done
+
+#APC_3.3.0.0 Output below:
+EPS sidelining is off
+File-per-page is off
+Image sidelining is off
+Output directory is .
+JobOption file is /home/ceousr/monza/bigstone/NormalizerAgent/bigstone/4159612_Oce.joboptions
+CID support library initialization completed.
+%%[ Warning: Empty job. No PDF file produced. ] %%
+Adobe PDF Converter 3.2.400.1
+democonverter: started /home/ceousr/monza/bigstone/NormalizerAgent/bigstone/4159612_FD043828F01.dbf_VPconvert289.ps
+UsePrologue is false.
+%%[ Error: ioerror; OffendingCommand: pdfmark ]%%
+
+Stack:
+[{ai_metadata_stream_123} -file-]
+-file-
+[{ai_metadata_stream_123} -file-]
+-mark-
+-mark-
+/DFStackmark
+-mark-
+-dict-
+6807
+
+
+%%[ Flushing: rest of job (to end-of-file) will be ignored ]%%
+ExternalCommand on page 2263 :F
+%%[ Warning: PostScript error. No PDF file produced. ] %%
+Total Number of Pages in Job=2262
+Normalizer job 1 failed (2) -- aborting
+237305856 bytes read from file
+/home/ceousr/monza/bigstone/NormalizerAgent/bigstone/4159612_FD043828F01.dbf_VPconvert289.ps: FAILED
+
+Done

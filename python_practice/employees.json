@@ -1,0 +1,32 @@
+[
+  {
+    "Alice": {
+      "Dept": "Eng",
+      "Salary": 90000
+    }
+  },
+  {
+    "Bob": {
+      "Dept": "Sales",
+      "Salary": 60000
+    }
+  },
+  {
+    "Carol": {
+      "Dept": "Eng",
+      "Salary": 120000
+    }
+  },
+  {
+    "Dave": {
+      "Dept": "HR",
+      "Salary": 55000
+    }
+  },
+  {
+    "Eve": {
+      "Dept": "Eng",
+      "Salary": 105000
+    }
+  }
+]
